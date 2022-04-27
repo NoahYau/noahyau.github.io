@@ -665,7 +665,7 @@ kbd {
 }
 .content-wrap {
   width: calc(100% - 330px);
-  float: left;
+  float: right;
 }
 .content-wrap--noside {
   float: none;
@@ -969,7 +969,7 @@ kbd {
 }
 .sidebar-wrap {
   width: 300px;
-  float: right;
+  float: left;
 }
 .sidebar-nav {
   padding-bottom: 1em;
@@ -1970,13 +1970,13 @@ kbd {
   left: 0;
 }
 .mode-track-moon::before {
-  content: '🌜';
+  content: '🌑';
 }
 .mode-track-sun {
   right: 0;
 }
 .mode-track-sun::before {
-  content: '🌞';
+  content: '🌕';
 }
 .mode-thumb {
   position: absolute;
@@ -2098,7 +2098,7 @@ kbd {
   border-radius: 5px;
   padding: 1rem 2rem;
   background-color: var(--color-card);
-  float: left;
+  float: right;
 }
 .copy-button {
   position: absolute;
