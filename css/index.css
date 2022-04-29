@@ -2487,6 +2487,9 @@ body::before {
   background-color: var(--color-card);
   float: left;
 }
+.fb-comments iframe {
+  width: 100% !important;
+}
 .copy-button {
   position: absolute;
   top: 0;
