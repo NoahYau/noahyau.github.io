@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://noahyau.github.io/google89bc8ece3aa498b5.html</loc>
+    
+    <lastmod>2022-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://noahyau.github.io/2022/07/20/diary-220720/</loc>
     
     <lastmod>2022-07-20</lastmod>
@@ -59,15 +68,6 @@
     <loc>https://noahyau.github.io/2022/04/29/diary-220429/</loc>
     
     <lastmod>2022-04-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://noahyau.github.io/google89bc8ece3aa498b5.html</loc>
-    
-    <lastmod>2022-04-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
