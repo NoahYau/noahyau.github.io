@@ -19,7 +19,7 @@ subtitle = "Curiosity is the best medicine to cure your boredom."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/noah-profile.jpg"
 
 [article]
 headingAnchor = false
