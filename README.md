@@ -39,14 +39,14 @@ The site will be available at http://localhost:1313.
 hugo new post/my-new-post.md
 ```
 📂 Project Structure
-/content/post/ - All blog entries (Tech & Lifestyle).
-
+```/content/post/ - All blog entries (Tech & Lifestyle).```
+```
 /content/page/ - Static pages like "About" or "Contact."
 
 /assets/ - Images, SCSS, and global scripts.
 
 /layouts/ - Custom HTML templates and shortcodes.
-
+```
 📜 License
 This project is open-source. Feel free to use the structure or code for your own personal projects.
 
