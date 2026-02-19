@@ -8,7 +8,7 @@ links:
   - title: Inside Chris Li
     description: Chris Li's Blog
     website: https://www.chrisli.me/
-    image: https://chrislicdn.adimgs.top/wp-content/uploads/2022/10/1666787313-%E9%AB%98%E6%B8%85logo%E6%BA%90%E6%96%87%E4%BB%B6.png
+    image: \chrisli.png
 menu:
     main: 
         weight: 4
