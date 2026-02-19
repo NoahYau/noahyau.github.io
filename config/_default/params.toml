@@ -10,7 +10,7 @@ favicon        = "img/cat_192x192.png"
 SortBy              = "default"
 
 [footer]
-    since      = 2020
+    since      = 2022
     customText = ""
 
 [dateFormat]
@@ -19,7 +19,7 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = "🔰"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    subtitle = "Curiosity is the best medicine to cure our boredom."
     avatar   = "img/noah-profile.jpg"
 
 [article]
