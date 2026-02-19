@@ -47,7 +47,7 @@ hugo new post/my-new-post.md
 
 /layouts/ - Custom HTML templates and shortcodes.
 ```
-📜 License
+📜 License </br>
 This project is open-source. Feel free to use the structure or code for your own personal projects.
 
 Happy Writing!
