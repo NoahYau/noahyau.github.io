@@ -28,14 +28,16 @@ To run this project locally, ensure you have Hugo installed and follow these ste
 ```bash
 git clone [https://github.com/NoahYau/noahyau.github.io.git](https://github.com/NoahYau/noahyau.github.io.git)
 cd noahyau.github.io
+```
 2. Launch the local server
-Bash
+```Bash
 hugo server -D
 The site will be available at http://localhost:1313.
-
+```
 3. Create a new post
-Bash
+```Bash
 hugo new post/my-new-post.md
+```
 📂 Project Structure
 /content/post/ - All blog entries (Tech & Lifestyle).
 
